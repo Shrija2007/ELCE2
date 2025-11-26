@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> CEATING A WEBPAGE FOR PORTFOLIO</title>
+</head>
+<body>
+
+    <h1> use of headings</h1>
+    <p>creating a portfolio in html by using different types of tags</p>
+
+    <h2>PROJECTS DONE ON GITHUB</h2>
+    <ol>
+        <li>creating repository/li>
+        <li>adding codes</li>
+    </ol>
+
+    <h3>CODES ON VS CODE</h3>
+    <ul>
+        <li>introdction</li>
+        <li>registration form</li>
+    </ul>
+<b> <i> works done on VS code are successfully ran </i> </b>
+    <h2>PORTFOLIO DESCRIPTION</h2>
+    <dl>
+        <dt>HTML Programming</dt>
+        <dd>codes related to HTML</dd>
+    </dl>
+
+</body>
+</html>
