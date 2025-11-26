@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<HTML>
+    <table>
+        <h2> INTRODUCTION TO TABLE </h2>
+        <table border = "1">
+        <caption>TIME TABLE(ELCE2)</caption>
+        
+            <tr>
+                <th>DAYS</th>
+                <th>8:50 - 9:30</th>
+                <th>9:30 - 10:30</th>
+                <th>10:40 - 11:30</th>
+            </tr>
+        
+
+    
+    
+        <tr>
+            <th>MODAY</th>
+            <td>MATHS</td>
+            <td>FSD</td>
+            <td>DS</td>
+         </tr>
+    
+    <tr>
+        <th roWspan ="2">
+            TUESDAY
+        </th>
+        <td>FSD</td>
+        <td>SOFT SKILLS</td>
+        <td>PHYSICS</td>
+    </tr>
+    <tr>
+        <td>ELECTRONICS</td>
+        <td>SPORTS</td>
+        <td>SOFT SKILLS</td>
+        </tr>
+       
+    
+</HTML>
